@@ -1,0 +1,6 @@
+﻿   Qt/MSBuild: 3.4.0.1
+  Reading Qt configuration (D:/software/qt/6.9.1/msvc2022_64/bin/qmake)
+   Qt: 6.9.1
+  moc main.cpp
+  main.cpp
+  Application.vcxproj -> E:\application\application\x64\Debug\Application.exe
